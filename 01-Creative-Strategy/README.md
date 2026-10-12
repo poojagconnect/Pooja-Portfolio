@@ -1,29 +1,75 @@
-# Digital Advertising Creative Strategy — NIVEA Body Lotion
+# Digital Marketing Portfolio
 
-## Project Overview
+Welcome to my digital marketing portfolio! This repository showcases my work in campaign planning, creative strategy, social media content development, digital advertising, and performance measurement.
 
-**Project Type:** Independent Marketing Portfolio Case Study  
-**Focus Areas:** Creative Strategy, Consumer Insights, Advertising Copywriting, Campaign Planning
+## About This Portfolio
 
-### Brand Overview
+I use this portfolio to demonstrate my approach to developing structured digital marketing campaigns, from understanding the target audience to creating advertising concepts and planning campaign measurement.
 
-NIVEA is a skincare brand offering products for everyday skin care. This case study focuses on NIVEA body lotion and explores how a digital advertising campaign could communicate its value to potential customers.
+## Featured Project: NIVEA Aloe Protection Family Care Campaign
 
-### Marketing Challenge
+**Campaign Theme:** One Lotion. Multiple Solutions.
 
-Consumers encounter many skincare products and advertisements online. A potential challenge is making a product's message relevant, memorable, and appealing to the intended audience.
+**Project Type:** Integrated Digital Marketing Campaign
 
-### Campaign Objective
+**Category:** Creative Strategy | Social Media Marketing | Digital Advertising
 
-Develop a digital advertising concept that communicates the product's everyday skincare benefits, attracts the attention of the target audience, and encourages people to explore the product.
+### Project Overview
 
-### Project Goals
+This independent portfolio project explores a digital campaign concept for NIVEA Aloe Protection Body Lotion SPF 15.
 
-- Define a target audience and its potential needs.
-- Develop a clear campaign message and creative direction.
-- Create three advertising concepts with headlines and calls to action.
-- Propose a social media campaign plan and performance metrics.
+The proposed campaign combines audience research, creative development, social media planning, paid advertising strategy, and a campaign measurement framework.
 
-### Scope and Disclosure
+This is an independently developed portfolio exercise and is not an official NIVEA campaign or an endorsement by NIVEA.
 
-This is an independent portfolio exercise, not an official NIVEA campaign. Consumer insights and campaign recommendations will be treated as hypotheses unless supported by research. No real campaign performance is claimed.
+### Campaign Objectives
+
+- Develop a clear product communication strategy.
+- Identify relevant target audience segments.
+- Create consistent campaign messaging and visual concepts.
+- Plan social media content and paid advertising.
+- Define key performance indicators for campaign evaluation.
+
+### Project Deliverables
+
+All campaign documents and creative assets are organised in the `01-Creative-Strategy` folder.
+
+| File | Description |
+|---|---|
+| [Target Audience Research](01-Creative-Strategy/02-target-audience.md) | Audience segments and consumer insights |
+| [Creative Concepts](01-Creative-Strategy/03-creative-concepts.md) | Campaign themes and creative directions |
+| [Campaign Plan](01-Creative-Strategy/04-campaign-plan.md) | Overall campaign strategy |
+| [Social Media Content Calendar](01-Creative-Strategy/05-social-media-content-calendar.md) | Proposed social media schedule |
+| [Social Media Creatives](01-Creative-Strategy/06-Social%20media%20creatives.png) | Social media creative asset |
+| [Digital Advertising Campaign](01-Creative-Strategy/07-digital-advertising-campaign.md) | Paid advertising plan |
+| [Campaign Measurement Dashboard](01-Creative-Strategy/08-campaign-measurement-dashboard.md) | KPIs and reporting framework |
+| [Final Campaign Case Study](01-Creative-Strategy/09-final-campaign-case-study.md) | Consolidated campaign overview |
+
+### Skills Demonstrated
+
+- Audience research and segmentation
+- Creative strategy and concept development
+- Social media content planning
+- Advertising copywriting
+- Digital advertising strategy
+- Budget planning
+- KPI selection and campaign measurement
+- Reporting and optimisation planning
+
+### Tools and Platforms
+
+- GitHub for project documentation and version control
+- Instagram and Facebook as proposed advertising platforms
+- Spreadsheet or dashboard tools for campaign measurement
+
+### Project Status
+
+**Status:** Campaign planning and portfolio documentation completed.
+
+The campaign budget and performance figures included in the project are illustrative planning examples. No actual advertising results are claimed.
+
+## Contact
+
+Thank you for visiting my portfolio!
+
+I welcome opportunities to learn, collaborate, and contribute to digital marketing and creative strategy projects.
