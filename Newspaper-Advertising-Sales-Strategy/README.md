@@ -1,4 +1,4 @@
-# Newspaper Advertising Sales Strategy
+# Newspaper Advertising Sales Strategy 
 
 ## Project Overview
 This is an independent marketing and sales portfolio project designed to demonstrate how a newspaper advertising sales executive can identify potential clients, understand their business needs, prepare advertising proposals, and develop strategies to generate advertising revenue.
